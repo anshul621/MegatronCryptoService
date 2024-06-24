@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "in.paynearby.megatroncrypto.config.EncryptionServiceProperties",
+      "sourceType": "in.paynearby.megatroncrypto.config.EncryptionServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aeps-secret-code",
+      "type": "java.lang.String",
+      "sourceType": "in.paynearby.megatroncrypto.config.EncryptionServiceProperties"
+    },
+    {
+      "name": "aeps-secret-salt",
+      "type": "java.lang.String",
+      "sourceType": "in.paynearby.megatroncrypto.config.EncryptionServiceProperties"
+    },
+    {
+      "name": "algorithm",
+      "type": "java.lang.String",
+      "sourceType": "in.paynearby.megatroncrypto.config.EncryptionServiceProperties"
+    },
+    {
+      "name": "upi-secret-code",
+      "type": "java.lang.String",
+      "sourceType": "in.paynearby.megatroncrypto.config.EncryptionServiceProperties"
+    },
+    {
+      "name": "upi-secret-salt",
+      "type": "java.lang.String",
+      "sourceType": "in.paynearby.megatroncrypto.config.EncryptionServiceProperties"
+    }
+  ],
+  "hints": []
+}
